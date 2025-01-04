@@ -7,7 +7,7 @@
 *.dll
 *.so
 *.dylib
-authApp
+loggerServiceApp
 
 # Test binary, built with `go test -c`
 *.test

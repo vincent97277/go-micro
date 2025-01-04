@@ -6,7 +6,8 @@
 *.exe~
 *.dll
 *.so
-*.dylib
+*.dylibg
+brokerApp
 
 # Test binary, built with `go test -c`
 *.test
